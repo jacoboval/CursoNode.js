@@ -1,6 +1,6 @@
 const cliente = 
 {
-    nombre : "Jasva",
+    nombre : "Java",
     edad : 31,
     emain : "jvaðgmail.com",
     telefono : ["5578451256","5578451256"],
